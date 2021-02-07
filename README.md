@@ -1,0 +1,10 @@
+ # [Scramble Game](https://arshadkhan615.github.io/Scramble-Game/)
+
+**SPECIALTY**
+
+1. AWESOME UI/UX.   
+2. WRONG AND SUCCESSFULL SOUND
+3. SCORES INCREASE FUNCTIONALLTY
+4. END ETC.
+
+**TRY THIS PROJECT ONCE**
